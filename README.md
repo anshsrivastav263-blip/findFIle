@@ -1,1 +1,1 @@
-# this my python program to find file tyep 
+# this my python program to find file type
